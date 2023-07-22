@@ -1,0 +1,25 @@
+.container{
+    border: 5px solid grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+    height: 90vh;
+}
+.box {
+    flex-basis: 5rem;
+    flex-grow: 1;
+    flex-shrink: 0;
+    width: 5rem;
+    height: 5rem;
+    background-color: indianred;
+    margin: 1rem;
+}
+.box-one{
+   flex-grow: 1;
+}
+.first{
+    visibility: hidden;
+}

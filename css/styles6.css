@@ -1,0 +1,7 @@
+body{
+    background: url(../images/swiss.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+height: 300vh;
+}

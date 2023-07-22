@@ -1,0 +1,32 @@
+html{
+    font-size: 62.5%;
+}
+body{
+margin: 10px;
+}
+p{
+    font-weight: bolder;
+    font-size: larger;
+}
+.box {
+    width: 15rem;
+    height: 100vh;
+    background-color: deeppink;
+    border-top: 5px solid burlywood;
+}
+.avatar{
+    width: 10rem;
+    height: 10rem;
+background-color: brown;
+float: left;
+margin-right: 10px;
+}
+.clear{
+    clear: both;
+}
+.tweet{
+    border: 7px solid grey;
+}
+
+
+
