@@ -1,26 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
 body{
     display: flex;
-    justify-content: center;
     align-items: center;
-    height: 100vh;
+    justify-content: center;
+    background-color: bisque;
 }
-.container{
-    display: flex;
+
+.container {
+	position: relative;
+	
+	display: flex;
+ border-radius: 100%;
 }
-.card{
-    width: 500px;
-    background-color: aquamarine;
-    border-radius: 30px;
-    transition:rotate: 5deg;
+conatiner.card{
+    width: 150%;
+    height: 150%;
+    border-radius: 100%;
+    transition: all;
 }
-.img{
-    width: 30px;
-    height: 30px;
+footer{
+    overflow: hidden;
 }
-.footer{
-    background-color: aquamarine;
-    overflow: visible;
-}
-.card:hover{
+  
  
-}
+ 
+    
+

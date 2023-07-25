@@ -43,10 +43,10 @@ body {
 }
 
 p {margin-bottom: 1rem;
-  font-weight: bold;
+  font-style: italics;
 }
 
-h2{
+h4{
     font-weight: bolder;
 }
 
