@@ -1,0 +1,24 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  height: 150px;
+  background-color: #2a2138;
+  overflow: auto;
+}
+ a {
+  padding: 0;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+ }
+ .active{
+  background-color: #221a2e;
+ }
+ a:hover{
+  background-color: #221a2e;
+  
+ }

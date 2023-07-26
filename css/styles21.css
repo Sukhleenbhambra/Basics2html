@@ -1,8 +1,23 @@
-
 body{
-    background: url(../images/stars.jpg);
-    background-repeat: no-repeat;
-background-size: cover;
-background-attachment: fixed;
-height: 50vh;
+  font-family: 'Times New Roman', Times, serif;
+}
+  .stars img{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+  
+}
+.text{
+    position: absolute;
+    top: 0;
+    color: aliceblue;
+    padding: 60px;
+}
+.text p{
+  color: azure;
+  position: absolute;
+   top: 90%;
+  right: 12rem;
+  font-weight: 300;
+ background-color: rgba(0,0,0,0.5)
 }
