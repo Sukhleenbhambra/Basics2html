@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.item{
+    width: 100%;
+    object-fit: cover;
+}
+
+@media screen and (min-width:768px) {
+     
+}
